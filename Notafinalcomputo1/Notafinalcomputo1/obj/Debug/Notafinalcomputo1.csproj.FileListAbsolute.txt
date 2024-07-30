@@ -1,0 +1,7 @@
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\bin\Debug\Notafinalcomputo1.exe.config
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\bin\Debug\Notafinalcomputo1.exe
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\bin\Debug\Notafinalcomputo1.pdb
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\obj\Debug\Notafinalcomputo1.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\obj\Debug\Notafinalcomputo1.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\obj\Debug\Notafinalcomputo1.exe
+C:\Users\josue\Desktop\PrograI 2024\Notafinalcomputo1\Notafinalcomputo1\obj\Debug\Notafinalcomputo1.pdb
